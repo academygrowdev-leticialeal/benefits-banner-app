@@ -1,7 +1,7 @@
 {
   "vendor": "partnersigrowdev",
-  "name": "benefits-banner",
-  "version": "0.0.1",
+  "name": "benefits-banner-app",
+  "version": "0.0.0",
   "title": "Benefits banner",
   "description": "Benefits banner",
   "builders": {
